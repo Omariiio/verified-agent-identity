@@ -10,7 +10,7 @@ on:
       agent_description:
         description: 'omariiio'
         required: true
-        default: 'lokie AI Agent'
+        default: 'omariiio AI Agent'
 
 jobs:
   verify:
